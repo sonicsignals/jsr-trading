@@ -8,7 +8,7 @@
             unselectable="on"
             onselectstart="return false;">
 <head>
-		<title>ALFA X-V11</title>
+		<title>ALFA S-V11</title>
 		<link rel="icon" type="image/x-icon" href="https://market-qx.pro/profile/favicons/apple-touch-icon.png">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -227,23 +227,16 @@
             <option value="PUT">PUT</option>
         </select>
     </span>
-
-
 <br>
     <span class="btn btnn-primarys btn-lg btn-block">
-    
-
         <div class="form-container">
-            <input type="password" id="password" placeholder="Enter your ST-Licence" required>
-            <p id="errorMessage" style="color: rgb(214, 29, 29);font-size: 7px;display: none;">ST-Licence is required.</p>
+            <input type="password" id="password" placeholder="Enter your GST-Licence" required>
+            <p id="errorMessage" style="color: rgb(214, 29, 29);font-size: 7px;display: none;">GST-Licence is required.</p>
            <button type="button" onclick="verifyPassword()"  class="generate"><b>Generate</b></button>
        </div>
-  
-   
-    </span>
+ </span>
 <br>
 <!----------------------------------------------------------------------------------------------->
-
     <script>
             const correctPassword = "123"; //licence key//
             function verifyPassword(){ 
@@ -255,58 +248,40 @@
             getHistoric();  } else {alert('Incorrect ST-Licence. Please try again.');}}}
     </script>
 <!----------------------------------------------------------------------------------------------->
-    
-
-
-
-
-    <span class="btn btnn-primarys btn-lg btn-block">
+ <span class="btn btnn-primarys btn-lg btn-block">
 		<div class="form-container">
 			<button id="copyButton" class="copy-a-s"><b>COPY All Signals</b></button>
 		</div>
     </span>
 <br>
-
-
-    <center><h3 class="note-1">ONLY PAID SUBSCRIBERS ENJOY SIGNAL</h3></center>
+  <center><h3 class="note-1">ONLY PAID SUBSCRIBERS ENJOY SIGNAL</h3></center>
      
 </span>
 </form>	
         <div id="preview" class="bodies" style="white-space: wrap; font-family: monospace; border: 5px solid #ffffff; padding: 15px; margin: 10px; border-radius: 20px;">
        	<a id="myLink" href="https://t.me/sonicfuturetrader"></a>
         <center><button class="coppies" onclick="openLinkById('myLink')">NEED HELP?</button>
-        </center> <center> <b style="font-size: 20px;">[Copyright © 2024 Sonic Trader All Rights Reserved] </b></center>
+        </center> <center> <b style="font-size: 20px;">[Copyright © 2024 JSR Trading Service  All Rights Reserved] </b></center>
         </div>
    </span>
 </form>
 
-
 <!-- START ALGORITHM CODE ------------------------------------------------------------->
-
 <!-- Script import -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script
-    src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script    src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-    crossorigin="anonymous">
-</script>
-<script
-    src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    crossorigin="anonymous"></script>
+    <script    src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
     integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
-    crossorigin="anonymous">
-</script>
-
+    crossorigin="anonymous"></script>
 <!-- Script BACKBONE------------------------------------------------------------------------------->
-<script type="text/javascript" src="https://sonicsignals.github.io/sonic/backbone-SV11.js"></script>
-<script type="text/javascript" src="https://sonicsignals.github.io/sonic/quotex-vew.js"></script>
+    <script type="text/javascript" src="https://sonicsignals.github.io/sonic/backbone-SV11.js"></script>
+    <script type="text/javascript" src="https://sonicsignals.github.io/master/quotex-vew.js"></script>
 <!-- Script BACKBONE------------------------------------------------------------------------------->
-
-
 
 </body>
-
 </html>
-
 <!-- Signal Genaretor--------------------------------------------------------------------------------------------------------------->
 
   
