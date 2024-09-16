@@ -286,7 +286,7 @@ function getLocalDate() {
 //### END ALGORITHM CODE --------------------------------------------------###//
 
 
-"\n -- ALFA SV-9 For QUOTEX"+ 
+"\nALFA SV-9 FOR QUOTEX"+ 
 "\n ________________________________________________\r"+
 "\nSignal Time Zone: UTC -3" +
 "\nCandle Time Frame: "+' '+candleTime+
