@@ -286,7 +286,7 @@ function getLocalDate() {
 //### END ALGORITHM CODE --------------------------------------------------###//
 
 
-"\n-- ALFA SV-11 For QUOTEX"+ 
+"\nALFA SV-11 FOR QUOTEX"+ 
 "\n ________________________________________________\r"+
 "\nSignal Time Zone: UTC +6" +
 "\nCandle Time Frame: "+' '+candleTime+
@@ -332,7 +332,7 @@ function getLocalDate() {
     
 stringList2 += "\r________________________" +"\n\n\n\nMOST IMPORTANT NOTE : Every Hour Avoid First 10 Signals"+
 "\nFor example: [ 02:00, 21:03 ,12:05, 21:07, 07:09, 11:05 ,13:01, 24:08]"+
-"\nCOPYRIGHT BY SONIC TRADER AND JSR TRADING SERVICE";
+"\nCOPYRIGHT BY JSR TRADING SERVICE";
 
 
 
